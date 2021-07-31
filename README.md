@@ -1,0 +1,3 @@
+# siro_bot
+siroRabiの多機能botです
+ffmpegをダウンロードしてexeを同ファイルの中に入れないと動きません
